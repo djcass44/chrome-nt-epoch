@@ -1,0 +1,10 @@
+{
+	"name":"New Tab",
+	"description":"Shows time since epoch",
+	"version":"0.1",
+	"incognito":"split",
+	"chrome_url_overrides": {
+		"newtab":"epoch.html"
+	},
+	"manifest_version": 2
+}
